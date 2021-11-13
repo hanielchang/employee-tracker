@@ -10,4 +10,4 @@ is activated using node in the command console. Below is a list of videos showin
 
 * Part 1 - https://watch.screencastify.com/v/HCavx31LIj39CsWbIhaT
 
-* Part 2 - https://watch.screencastify.com/v/HCavx31LIj39CsWbIhaT
+* Part 2 - https://watch.screencastify.com/v/2b1DB0TGnP5jsKWm6g4z
